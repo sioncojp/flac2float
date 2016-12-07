@@ -7,7 +7,6 @@ import (
 	"azul3d.org/engine/audio"
 
 	_ "azul3d.org/engine/audio/flac"
-	_ "azul3d.org/engine/audio/wav"
 )
 
 var (
