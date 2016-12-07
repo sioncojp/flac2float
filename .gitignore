@@ -1,0 +1,4 @@
+_vendor
+.vendor
+vendor
+cmd/flac2float/flac2float
